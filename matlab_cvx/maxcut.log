@@ -1,0 +1,86 @@
+G1 = 5x5
+G2 = 20x20
+G3 = 50x50
+G4 = 50x50
+G5 = 500x500
+G6 = 500x500
+=============
+graph1  4.000
+graph2 16.072
+graph3 34.994
+graph4 11.664
+graph5 292.080
+graph6 15.011
+graph1 20.000
+graph2 321.431
+graph3 1749.713
+graph4 583.200
+graph5 146039.936
+graph6 7505.656
+graph1  8.000
+graph1  8.000
+graph1 16.000
+graph1  4.000
+graph2 68.492
+graph3 380.348
+graph4 104.533
+graph5 33824.334
+graph6 1112.805
+graph1  4.000
+graph1  4.000
+graph1  4.000
+graph1  4.000
+graph1  4.000
+	cutval: -8 
+graph1  4.000
+  cutval: 2 
+graph1  4.000
+  cutval: 4 
+graph1  4.000
+  cutval: 4 
+graph2 68.492
+  cutval: 64 
+graph3 380.348
+  cutval: 360 
+graph4 104.533
+  cutval: 92 
+graph5 33824.334
+  cutval: 33031 
+graph6 1112.805
+  cutval: 1012 
+graph1  4.000
+  cutval: 4, fraction: 2.40.250000
+graph2 68.492
+  cutval: 67, fraction: 2.40.244554
+graph3 380.348
+  cutval: 361, fraction: 2.40.237283
+graph4 104.533
+  cutval: 94, fraction: 2.40.224809
+graph5 33824.334
+  cutval: 32961, fraction: 2.40.243619
+graph6 1112.805
+  cutval: 989, fraction: 2.40.222186
+graph1  4.000
+  cutval: 4, fraction: 0.2500
+graph2 68.492
+  cutval: 67, fraction: 0.2446
+graph3 380.348
+  cutval: 362, fraction: 0.2379
+graph4 104.533
+  cutval: 101, fraction: 0.2415
+graph5 33824.334
+  cutval: 33063, fraction: 0.2444
+graph6 1112.805
+  cutval: 1010, fraction: 0.2269
+graph1  4.000
+  cutval: 4, fraction: 1.0000
+graph2 68.492
+  cutval: 61, fraction: 0.8906
+graph3 380.348
+  cutval: 365, fraction: 0.9596
+graph4 104.533
+  cutval: 100, fraction: 0.9566
+graph5 33824.334
+  cutval: 33021, fraction: 0.9762
+graph6 1112.805
+  cutval: 994, fraction: 0.8932
